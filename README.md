@@ -19,6 +19,7 @@ This is a content-based laptop recommender system that uses machine learning alg
 5) Optionally, further customize the recommender system by modifying the dataset or algorithm according to your needs.
 
 # Screenshot
+To see a demo of the Laptop Recommender System in action, check out this video: 
 [![Laptop Recommender System Demo](https://img.youtube.com/vi/vEqL5eBjomc/maxresdefault.jpg)](https://www.youtube.com/watch?v=vEqL5eBjomc)
 
 # Contributing
